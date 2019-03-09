@@ -5,7 +5,7 @@
 export interface IPlaceholderProps {
 
   /**
-   * Text description for the placeholder. Appears bellow the Icon and IconText.
+   * Text description for the placeholder. Appears below the Icon and IconText.
    */
   description: string;
   /**
